@@ -1,0 +1,16 @@
+{
+  "name": "book-store-api",
+  "version": "1.0.0",
+  "description": "api for book store",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Nam Tran",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0",
+    "moment": "^2.29.1"
+  }
+}
